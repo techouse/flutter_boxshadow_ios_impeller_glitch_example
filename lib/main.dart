@@ -71,13 +71,13 @@ class ExampleRow extends StatelessWidget {
                   color: Colors.black.withOpacity(0.1),
                   offset: Offset(0, 8),
                   blurRadius: 32,
-                  spreadRadius: -40,
+                  spreadRadius: -40, // Broken in Flutter 3.27
                 ),
                 BoxShadow(
                   color: Colors.grey.withOpacity(0.1),
                   offset: Offset(0, 2),
                   blurRadius: 8,
-                  spreadRadius: -1,
+                  spreadRadius: -1, // Broken in Flutter 3.27
                 ),
               ],
             ),
