@@ -1,16 +1,7 @@
 # boxshadow_glitch
 
-A new Flutter project.
+A glitch I have observed using Impeller on a physical iPhone running iOS 18.2.1.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Flutter 3.24.5 ✅                | Flutter 3.27.3 ❌                |
+|---------------------------------|---------------------------------|
+| ![Flutter 3.24.5](IMG_4197.png) | ![Flutter 3.27.3](IMG_4198.png) |
